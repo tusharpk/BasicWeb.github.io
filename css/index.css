@@ -1,0 +1,57 @@
+body
+{
+	margin:0px;
+	padding:0px;
+	background:grey;
+}
+*
+{
+ margin:0px;
+ padding:0px;
+
+}
+
+header
+{
+  width:90%;
+  min-height:140px;
+  background: pink;
+  margin:auto;
+
+}
+
+section
+{
+	width:90%;
+	height:500px;
+	background:skyblue;
+    margin:auto;
+    
+}
+footer
+{
+
+	width:90%;
+	height:100px;
+	background:yellow;
+    margin:auto;
+    
+}
+
+
+
+ ul li
+ {
+    float:left; 	 
+    list-style: none;
+    text-decoration: none;
+    margin-left: 20px;
+ }
+ul li a
+{
+    	
+	font-size:20px;
+	line-height: 50px;
+	text-decoration:none; 
+    
+}
